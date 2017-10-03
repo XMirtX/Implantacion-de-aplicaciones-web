@@ -28,4 +28,12 @@ Para ello usamos el comando ln -s para crear un enlace simbolico y redireccionar
 
 ![images](img/3.png)
 
-###
+Comprobamos que el enlace esta bien.
+
+![images](img/4.png)
+
+### Conclución
+
+Abrimos un nevegador y entramos en nuestro dominio aluxxxx.me/series, para ver si carga bien la pagina.
+
+![images](img/5.png)
