@@ -19,7 +19,7 @@
 
   ![image](img/img03.png)
 
-  * Hacemos un reload del servicio ``systemctl reload nginx.service`` y comprobamos en un navegador si funciona la pagina.
+  * Hacemos un reload del servicio ``systemctl reload nginx.service`` y comprobamos en un navegador si funciona la pagina <http://php.alu4987.me>.
 
   ![image](img/img04.png)
 
@@ -73,7 +73,7 @@
 
   * Le damos permiso de ejecución al script.
 
-  ![image](img/img015.pnf)
+  ![image](img/img015.png)
 
   * Hacemos un reload del servidor para que carge la nueva información.
 
