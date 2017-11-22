@@ -8,8 +8,8 @@ count = 0
 if number <= 0:
     print("Error es negativo")
 else:
-	cadena = string.split(" ")
+    cadena = string.split(" ")
 	for i in cadena:
-		if len(i) == number:
-			count += 1
+        if len(i) == number:
+            count += 1
 	print("Tenemos", count, "palabras de tamaño", number)
