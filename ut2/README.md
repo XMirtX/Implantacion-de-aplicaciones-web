@@ -1,5 +1,5 @@
 # Aplicaciónes Basicas de Python
 
-> Enpezando la travesía
+> Empezando la travesía
 
 ![image](img/python2.png)
