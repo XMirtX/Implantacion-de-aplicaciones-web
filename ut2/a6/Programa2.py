@@ -30,6 +30,7 @@ def options():
             add_contact(phone_book, name, phone)
         elif option == 2:
             name = input("Nombre del contacto")
+            del_contact(phone_book, name)
         elif option == 3:
             list_contact(phone_book)
         elif option == 4:
