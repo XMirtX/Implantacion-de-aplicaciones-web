@@ -8,6 +8,6 @@ env.hosts = ["cloud"]
 
 def deploy():
 	local("git push")
-	with cd("~/web"):
+	with cd("~/myweb_db"):
 	run("git pull")
 	run("supervisorctl restart myweb")
