@@ -1,0 +1,61 @@
+h2{
+	color:blue;
+}
+.table1{
+
+	border-style: inset;
+	border-color: lightblue;
+	border-left: inset lightgreen;
+	background-color: lightblue;
+	border-radius: 45px 50px ;
+	box-shadow: 5px 5px;
+	height: 20px;
+}
+
+.td1{
+
+	color:green;
+}
+
+.t2{
+
+	width: 500px;
+}
+.table2{
+
+	width:	850px;
+	height:	200px;
+}
+.trtable2{
+
+	font-weight: bold;
+}
+.ramcpuhdd{
+
+	font-weight: bold;
+}
+.table2 td {
+
+	text-align: center;
+}
+.table3{
+
+	width:	810px;
+	height:	80px;
+}
+.trtable3 td{
+
+	border-style: solid;
+	border-radius: 20px 20px 20px 20px;
+	background-color: lightblue;
+	border-top-color: black;
+	border-left-color: lightgreen;
+	border-right-color: red;
+	border-bottom-color: red; 
+	box-shadow: 5px 5px; 
+	text-align: center;
+}
+.trtable td{
+
+	text-align: center;
+}
